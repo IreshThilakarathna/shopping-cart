@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "dress1",
+      "image": "/images/dress1.jpg",
+      "title": "Red Dress",
+      "description": "Red high neck maxi dress",
+      "availableSizes": ["S", "M", "X"],
+      "price": 29.9
+    },
+    {
+      "_id": "dress2",
+      "image": "/images/dress2.jpg",
+      "title": "Puple Dress",
+      "description": "Dancing queen cabenet maxi dress",
+      "availableSizes": ["S", "M"],
+      "price": 29.9
+    },
+    {
+      "_id": "dress3",
+      "image": "/images/dress3.jpg",
+      "title": "Blue Dress",
+      "description": "Blue Bardot High Low Scuba Midi Dress",
+      "availableSizes": ["X", "M", "S"],
+      "price": 29.9
+    },
+    {
+      "_id": "dress4",
+      "image": "/images/dress4.jpg",
+      "title": "Rose Dress",
+      "description": "Lost In Paradise Embroidery Maxi Dress",
+      "availableSizes": ["X", "XL"],
+      "price": 29.9
+    },
+    {
+      "_id": "dress5",
+      "image": "/images/dress5.jpg",
+      "title": "Dark Dress",
+      "description": "The Pretty Dress Company Dani Velvet Bardot Pencil Dress",
+      "availableSizes": ["X", "XXL"],
+      "price": 29.9
+    },
+    {
+      "_id": "dress6",
+      "image": "/images/dress6.jpg",
+      "title": "Green Dress",
+      "description": "Lilac Dress",
+      "availableSizes": ["X", "XL", "XXL"],
+      "price": 29.9
+    }
+  ]
+}
