@@ -14,7 +14,7 @@
       "title": "Puple Dress",
       "description": "Dancing queen cabenet maxi dress",
       "availableSizes": ["S", "M"],
-      "price": 29.9
+      "price": 39.9
     },
     {
       "_id": "dress3",
@@ -22,7 +22,7 @@
       "title": "Blue Dress",
       "description": "Blue Bardot High Low Scuba Midi Dress",
       "availableSizes": ["X", "M", "S"],
-      "price": 29.9
+      "price": 20
     },
     {
       "_id": "dress4",
@@ -30,7 +30,7 @@
       "title": "Rose Dress",
       "description": "Lost In Paradise Embroidery Maxi Dress",
       "availableSizes": ["X", "XL"],
-      "price": 29.9
+      "price": 49.9
     },
     {
       "_id": "dress5",
@@ -38,7 +38,7 @@
       "title": "Dark Dress",
       "description": "The Pretty Dress Company Dani Velvet Bardot Pencil Dress",
       "availableSizes": ["X", "XXL"],
-      "price": 29.9
+      "price": 35
     },
     {
       "_id": "dress6",
@@ -46,7 +46,7 @@
       "title": "Green Dress",
       "description": "Lilac Dress",
       "availableSizes": ["X", "XL", "XXL"],
-      "price": 29.9
+      "price": 27.5
     }
   ]
 }
